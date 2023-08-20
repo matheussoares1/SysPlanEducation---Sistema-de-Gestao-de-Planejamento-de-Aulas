@@ -4,10 +4,6 @@ from tkinter import ttk
 from tkinter import messagebox
 from tkinter import filedialog as fd
 
-# tk calendar
-from tkcalendar import Calendar, DateEntry
-from datetime import date
-
 
 # importando pillow
 from PIL import ImageTk, Image
