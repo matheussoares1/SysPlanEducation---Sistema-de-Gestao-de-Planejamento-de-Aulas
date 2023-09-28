@@ -11,18 +11,28 @@ Desenvolvimento da aplicação apartir da orientação de tutores e professores 
 Python 3.10.6
 ```
 ```
-Biblioteca Pillow
+Biblioteca Pillow - pip install pillow
 ```
 ```
-Pandas 2.0.3
+Python-Docx - pip install python-docx
 ```
+```
+CSV
+```
+
+
 ### Aplicação
 > Para desenvolvimento foi utilizado o conhecimento em Python com aprofundamento nas áreas de lógica de programação, POO(Programação Orientada a Objetos), Criação de Interfaces e Analise e Exportação de dados.
 
-> Para o desenvolvimento aplicado, foi utilizado o Python como linguagem de base por ser uma tecnologia a qual o local onde ele será principalmente usada, usa-se LInux como principal Sistema Operacional, assim, obtendo uma melhor resposta.
+> Para o desenvolvimento aplicado, foi utilizado o Python como linguagem de base por ser uma tecnologia a qual o local onde ele será principalmente utilizado predominantemente usa-se Linux como Sistema Operacional principal, assim, obtendo uma melhor resposta por ser uma das linguagens nativas do 'S.O'.
 
 ### Tecnologias
 
+>_Front and Back_
+```Python```
+
+>_Banco de Dados_
+```SQLite```
 
 ### Produção
 
