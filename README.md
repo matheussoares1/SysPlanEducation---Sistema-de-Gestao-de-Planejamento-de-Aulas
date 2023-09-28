@@ -25,7 +25,8 @@ Pandas 2.0.3
 
 
 ### Produção
+
 Desenvolvido por: 
 @matheussoares1
-Tempo Dedicado:
-10 Horas
+
+
